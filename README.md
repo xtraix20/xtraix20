@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @xtraix20
+- 👋 Hi, I’m @xtraix20 or Felipe Guerrero
 - 👀 I’m interested in programation backend and frontend
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me guerrerovanegasf@icloud.com
 
 <!---
 xtraix20/xtraix20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
