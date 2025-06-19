@@ -7,14 +7,12 @@
 <h3 align="center"> Software developer from Colombia </h3>
 
 <br/>
-
 <div align="center">
   -I'm currently working on Connection with API's 🐤
-
-  
+  <br/>
   -I'm currently learning about Java, Spring boot and Java frameworks 🐣
 </div>
-
+<br/>
 <div align="center">
   <h2> Contact me on: </h2>
   <a href="mailto: guerrerovanegasf@icloud.com">
@@ -23,8 +21,7 @@
   <a href="https://www.linkedin.com/in/felipe-guerrero-vanegas-profile/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  
-
+  </div>
 <h2 align="center" > 🛠️Languages - Frameworks - Tools🛠️ </h2>
 <br/> 
 <div align ="center">
